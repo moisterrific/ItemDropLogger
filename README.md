@@ -24,3 +24,5 @@ The Revival of Player Item History after the latest was removed
 
 **droplog.flush**
 /lflush
+
+[ItemDropLogger](https://tshock.co/xf/index.php?resources/itemdroplogger.167/)
